@@ -7,6 +7,8 @@ public class Hello_World {
     public void methodC() {
         System.out.println("This is method A");
         System.out.println("This is method A");
+        System.out.println("This is method A");
+        System.out.println("This is method A");
     }
 
     
