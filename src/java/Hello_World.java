@@ -4,7 +4,7 @@ public class Hello_World {
         System.out.println("Hello, World!");
     }
 
-    public void methodA() {
+    public void methodC() {
         System.out.println("This is method A");
     }
 
@@ -12,4 +12,5 @@ public class Hello_World {
         // Duplicate code from methodA
         System.out.println("This is method A");
     }
+
 }
