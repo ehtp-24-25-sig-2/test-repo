@@ -6,11 +6,8 @@ public class Hello_World {
 
     public void methodC() {
         System.out.println("This is method A");
-    }
-
-    public void methodB() {
-        // Duplicate code from methodA
         System.out.println("This is method A");
     }
 
+    
 }
