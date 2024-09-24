@@ -1,4 +1,4 @@
-public class Hello_World {
+public class Hello_World_yes {
     //comment test
     public static void main(String[] args) {
         String text = getText();  // This method might return null
